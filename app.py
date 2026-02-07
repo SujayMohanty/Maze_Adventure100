@@ -7,8 +7,8 @@ maze_dungeon_hint_ui_patched_v4.py
 import streamlit as st
 st.set_page_config(layout="wide")
 
-st.title("Maze Dungeon Game")
-st.write("Loading game... Please wait")
+st.title("Dungeon Adventure")
+st.write("Loading Fortune...Get an Hour-glass")
 
 import pygame
 import random
@@ -1011,3 +1011,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
